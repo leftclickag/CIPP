@@ -50,7 +50,7 @@
     "chart.js": "^3.5.1",
     "classnames": "^2.3.1",
     "core-js": "^3.18.3",
-    "dompurify": "^3.1.6",
+    "dompurify": "3.4.12",
     "eml-parse-js": "^1.1.14",
     "enzyme": "^3.11.0",
     "final-form": "^4.20.4",
@@ -58,8 +58,8 @@
     "fuse.js": "^7.0.0",
     "fuzzysort": "^1.1.4",
     "javascript-time-ago": "^2.5.9",
-    "jspdf": "^2.4.0",
-    "jspdf-autotable": "^3.5.23",
+    "jspdf": "4.2.1",
+    "jspdf-autotable": "5.0.8",
     "lodash-es": "^4.17.21",
     "moment": "^2.29.1",
     "prop-types": "^15.7.2",
@@ -83,10 +83,10 @@
     "react-media-hook": "^0.4.9",
     "react-papaparse": "^3.18.2",
     "react-redux": "^7.2.5",
-    "react-router-dom": "^6.1.1",
+    "react-router-dom": "7.18.1",
     "react-select": "^5.3.0",
     "react-select-search": "^3.0.8",
-    "react-syntax-highlighter": "^15.4.5",
+    "react-syntax-highlighter": "16.1.1",
     "react-time-ago": "^7.2.1",
     "redux": "4.1.1",
     "redux-persist": "^6.0.0",
@@ -125,6 +125,12 @@
   },
   "overrides": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "dompurify": "3.4.12",
+    "jspdf": "4.2.1",
+    "prismjs": "1.30.0",
+    "refractor": "5.0.0",
+    "react-router": "7.18.1",
+    "react-router-dom": "7.18.1"
   }
 }
